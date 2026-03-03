@@ -19,6 +19,7 @@
   - ClothingUniformJumpsuitSuitBlackAlt
   - ClothingUniformJumpsuitFlannel
   - ClothingUniformJumpsuitSuitBrownMob
+  - ClothingUniformJumpsuitSuitBlackMob
   - ClothingUniformJumpsuitKimono
   - ClothingUniformJumpsuitLostTourist
   - ClothingUniformJumpsuitLoungewear
@@ -102,6 +103,10 @@
   loadouts:
   - ClothingShoesBootsJack
   - ClothingShoesBootsCowboyFancy
+  - ClothingShoesBootsCowboyBlack
+  - ClothingShoesBootsCowboyBrown
+  - ClothingShoesBootsCowboyWhite
+  - ClothingShoesHighheelBoots
   - ClothingShoesBootsWork
   - ClothingShoesBootsWinter
   - ClothingClothWrap
