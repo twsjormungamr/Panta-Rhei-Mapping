@@ -1253,3 +1253,9 @@ Entries:
       message: Removal sound for taking things out of Slimefolk internal storage.
   id: 153
   time: '2026-03-09T09:40:45.0000000+00:00'
+- author: sprkl
+  changes:
+    - type: Add
+      message: Security Technician and associated gear.
+  id: 154
+  time: '2026-03-09T11:55:43.0000000+00:00'
