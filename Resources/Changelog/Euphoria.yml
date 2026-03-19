@@ -1393,3 +1393,9 @@ Entries:
       message: Added the cybersun engineer plushie. Yip.
   id: 170
   time: '2026-03-18T08:09:05.0000000+00:00'
+- author: Dunrab
+  changes:
+    - type: Fix
+      message: Yap x 100, kitsunes fox form can emote again.
+  id: 171
+  time: '2026-03-19T08:16:24.0000000+00:00'
