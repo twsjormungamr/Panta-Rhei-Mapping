@@ -1511,3 +1511,11 @@ Entries:
       message: Fixed Heart Surgery which is supposed to unrot to once again unrot.
   id: 185
   time: '2026-03-22T02:53:26.0000000+00:00'
+- author: Mnemotechnician
+  changes:
+    - type: Fix
+      message: >-
+        Species that don't support the trill emote will no longer have it in the
+        emote wheel.
+  id: 186
+  time: '2026-03-22T07:32:43.0000000+00:00'
